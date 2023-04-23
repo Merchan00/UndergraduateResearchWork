@@ -2,6 +2,7 @@
 
 ## Authors 
 Mishell Merchan Cardoza
+
 Juan Pablo Suarez Quimbayo
 
 ## General Objective 
@@ -38,6 +39,7 @@ This network was trained with 10.000 images, of which 80 % is for training and 2
 ## References 
 
 [1] Kuanquan Wang et al. Pulmonary Artery Segmentation Challenge 2022. Mar. de 2022. DOI: 10.5281/zenodo.6361906 
+
 [2] Hongfang Yuan et al. “ResD-Unet Research and Application for Pulmonary Artery Segmentation”. En: IEEE Access 9 (2021), págs 67504-67511. DOI: 10.1109/ACCESS.2021.3073051
 
 
