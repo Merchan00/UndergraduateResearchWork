@@ -35,12 +35,15 @@ This network was trained with 12.000 images. After 30 training epochs, the predi
 
 | **Metrics**  | **Results**  |  
 |---|---|
-| Mean  |  0.61412 | 
-| Median  |  **0.63681** |  
-| Maximum  | 0.94901  | 
+| Mean  |  0.84 | 
+| Median  |  **0.76** |  
+| Maximum  | 1  | 
 
 ## Conclusions
 In this project, we developed an algorithm for the segmentation of pulmonary arteries in CT images. The algorithm is based on a processing stage that identifies the lung, a neural network based on the ResD-Unet architecture, composed of a conventional Unet interconnected with layers of residual blocks and convolution blocks. The performance of the neural network was 63\% using as measured by Dice Similarity Coefficient (DSC) index on a database of 30 3D volumes with refined labeling of the pulmonary arteries. These results are modest, but serve as a starting point for improving pulmonary artery segmentation.
+
+##Red
+You can download the pretrained network [Drive](https://drive.google.com/file/d/1--_ghf-FHlLdJORW4d24ljYPpbCC6_Mu/view?usp=sharing)
 
 ## References 
 
