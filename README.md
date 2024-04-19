@@ -1,4 +1,4 @@
-# Design and Implementation of a Deep Learning model for Pulmonary Arterial segmentation in Computed Tomography (CT) images.
+# Deep learning-based Pulmonary Arterial Segmentation in Computed Tomography Images
 
 ## Authors 
 Mishell Merchan Cardoza
